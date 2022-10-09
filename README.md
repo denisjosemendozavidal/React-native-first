@@ -23,6 +23,8 @@ Once that is done, the app moves to its main page, where the user can visualize 
 
 If the user tabs on one of the added goals, this deletes it.
 
+If the user tryes to click on the modals Add a Goal button without inputting any text, a "Believe in you" message will auto populate, this is done to prevent empty info to be add it to the goals, along with serving as an extra motivational message.
+
 Extra info:
 
 For this layout to be possible: I used several components, like text, view, Button among others including having to customize the top bar using the Status Bar component , so essential information about the phone is still visible to the user. 
