@@ -7,8 +7,11 @@ Access to the app: https://expo.dev/@denismendoza/denis-mendoza-react-native-fir
 Instructions: 
 
 The app needs to be seen from a mobile device. 
-Download Expo Go to your mobile device, Further instructions here: https://expo.dev/client
+
+Download Expo Go to your mobile device, Further instructions here: https://expo.dev/client.
+
 Once step two is completed please go here https://expo.dev/@denismendoza/denis-mendoza-react-native-first?serviceType=classic&distribution=expo-go
+
 A page will load giving you the option to “open on Expo go” or something similar. 
 
 
